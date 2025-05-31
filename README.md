@@ -1,6 +1,18 @@
 # ChatiFy
 
-ChatiFy is a real-time chat application featuring a React frontend and a Node.js backend. It leverages modern technologies such as React, Vite, Socket.IO, and Express to provide a seamless chat experience.
+*Company*: CODETECH IT SOLUTIONS
+
+*Name*: Rohit Kumar
+
+*Intern ID*: CT12WC98
+
+*Domain*: Mern Stack Web Development
+
+*Duration*: 12 weeks
+
+*Mentor*: Neela Santosh
+
+ChatiFy is an innovative real-time chat application that combines a sleek React frontend with a robust Node.js backend to deliver an exceptional messaging experience. By utilizing modern technologies such as React, Vite, Socket.IO, and Express, ChatiFy ensures seamless communication between users. The application boasts several impressive features, including real-time messaging facilitated by Socket.IO and a responsive user interface styled with Tailwind CSS, making it visually appealing and user-friendly. Additionally, ChatiFy prioritizes security with JWT authentication, alongside integration with MongoDB for data management, ensuring that user information is both protected and easily accessible. Overall, ChatiFy exemplifies a forward-thinking approach to chat applications, providing users with both functionality and security.
 
 ## Features
 
