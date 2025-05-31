@@ -61,8 +61,12 @@ ChatiFy is an innovative real-time chat application that combines a sleek React 
 
 ## Included Images
 
-- ![Screenshot 1](./image.png)
-- ![Screenshot 2](./image2.jpg)
+- ![Screenshot 1] (./image.png)
+- ![Screenshot 2] (./image2.jpg)
+
+-----
+
+Made by Rohit 🐱‍🏍
 
 
 
